@@ -11,10 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cacul.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="0701_2.h" />
+    <ClCompile Include="0702\0703_string.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{BAC5E981-9ECE-49B6-940A-ECDB83EE0920}</ProjectGuid>
